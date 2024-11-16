@@ -1,3 +1,14 @@
+// const filterArray = function (numbers, value) {
+//     let newArray = [];
+
+//     for (const number of numbers) {
+//         if (number > value) {
+//             newArray.push(number);
+//         }
+//     }
+//     return newArray;
+// }
+
 const filterArray = function (numbers, value) {
     let newArray = [];
 
